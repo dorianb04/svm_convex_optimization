@@ -18,8 +18,8 @@ The primary dataset used in this study is the [Pima Indians Diabetes Database](h
 The methods were evaluated based on training loss, accuracy, execution time, and test accuracy. Detailed results and visualizations can be found in the [`results`](/results) directory.
 
 ## Dependencies
-- Python
 - NumPy
+- Pandas
 - Matplotlib
 - Scikit-learn (only for visualization)
 
