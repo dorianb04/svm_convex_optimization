@@ -27,7 +27,7 @@ Optimization Algorithm            |  Training
 - NumPy
 - Pandas
 - Matplotlib
-- Scikit-learn (only for visualization)
+- Scikit-learn (only for using PCA to create visualization of the Dataset)
 
 ## Author
 - **Boucher Dorian** - *Initial Work* - [dorian.bch44@gmail.com](mailto:dorian.bch44@gmail.com)
