@@ -19,8 +19,8 @@ The methods were evaluated based on training loss, accuracy, execution time, and
 
 Optimization Algorithm            |  Training
 :-------------------------:|:-------------------------:
-**Proximal Gradient Descent**| ![](results/Proximal%20Gradient%20Descent.png)  
 **Subgradient Descent** |  ![](/results/Subgradient%20Method.png) 
+**Proximal Gradient Descent**| ![](results/Proximal%20Gradient%20Descent.png)  
 **FISTA** | ![](/results/FISTA.png)
 
 ## Dependencies
