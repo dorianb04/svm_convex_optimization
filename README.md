@@ -17,9 +17,11 @@ The primary dataset used in this study is the [Pima Indians Diabetes Database](h
 ## Results
 The methods were evaluated based on training loss, accuracy, execution time, and test accuracy. Detailed results and visualizations can be found in the [`results`](/results) directory.
 
-Proximal Gradient Descent             |  Subgradient Descent | FISTA
-:-------------------------:|:-------------------------:|:-------------------------:
-![](results/Proximal%20Gradient%20Descent.png)  |  ![](/results/Subgradient%20Method.png) | ![](/results/FISTA.png)
+Optimization Algorithm            |  Training
+:-------------------------:|:-------------------------:
+**Proximal Gradient Descent**| ![](results/Proximal%20Gradient%20Descent.png)  
+**Subgradient Descent** |  ![](/results/Subgradient%20Method.png) 
+**FISTA** | ![](/results/FISTA.png)
 
 ## Dependencies
 - NumPy
